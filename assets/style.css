@@ -8,14 +8,16 @@ header h1 {
 }
 
 header h1.color {
-	background: -webkit-linear-gradient(-70deg,#db469f,#2188ff);
-    -webkit-background-clip: text;
-    background-clip: text;
+	background: -webkit-linear-gradient(90deg, #4fb9e2, #b339d2);
+	-webkit-background-clip: text;
+ 	-webkit-text-fill-color: transparent;
+    font-weight: 750;
 }
 
 header h2 {
 	color: #183f5a;
 	margin: 1%;
+	font-size: 20px;
 }
 
 main {
